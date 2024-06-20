@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\INT\\source\\repos\\TaskManager01\\",
+  "WorkspaceRootPath": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\models\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\models\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\models\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\models\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Migrations\\20240619050800_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager01\\Migrations\\20240619050800_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\models\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\models\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\models\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\int\\source\\repos\\taskmanager01\\taskmanager01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\models\\entities\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\models\\entities\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|c:\\users\\sarthak_rai\\documents\\taskmanager01\\taskmanager01\\migrations\\20240620102919_another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686C480B-06FF-4943-85B3-8B69708018BE}|TaskManager01\\TaskManager01.csproj|solutionrelative:taskmanager01\\migrations\\20240620102919_another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\UpdateTaskDto.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Models\\UpdateTaskDto.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\UpdateTaskDto.cs",
-              "RelativeToolTip": "TaskManager01\\Models\\UpdateTaskDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:30:23.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\AddTaskDto.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Models\\AddTaskDto.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\AddTaskDto.cs",
-              "RelativeToolTip": "TaskManager01\\Models\\AddTaskDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:29:43.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskManager01\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:27:54.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240619050800_first migration.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Migrations\\20240619050800_first migration.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Migrations\\20240619050800_first migration.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Migrations\\20240619050800_first migration.cs",
-              "RelativeToolTip": "TaskManager01\\Migrations\\20240619050800_first migration.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:08:01.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Program.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Program.cs",
-              "RelativeToolTip": "TaskManager01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:50:36.951Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManager01\\appsettings.json",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\appsettings.json",
-              "RelativeToolTip": "TaskManager01\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-19T04:48:52.682Z",
-              "EditorCaption": ""
+              "Title": "20240620102919_another.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Migrations\\20240620102919_another.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Migrations\\20240620102919_another.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Migrations\\20240620102919_another.cs",
+              "RelativeToolTip": "TaskManager01\\Migrations\\20240620102919_another.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:29:19.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "TaskManager01\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "SubTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\SubTaskController.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Controllers\\SubTaskController.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\SubTaskController.cs",
+              "RelativeToolTip": "TaskManager01\\Controllers\\SubTaskController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:46:42.61Z",
+              "WhenOpened": "2024-06-20T09:13:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManager01\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:13:56.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\Entities\\Task.cs",
-              "RelativeDocumentMoniker": "TaskManager01\\Models\\Entities\\Task.cs",
-              "ToolTip": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\Models\\Entities\\Task.cs",
-              "RelativeToolTip": "TaskManager01\\Models\\Entities\\Task.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TaskManager01\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:44:40.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T09:13:59.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\SubTask.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Models\\Entities\\SubTask.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\SubTask.cs",
+              "RelativeToolTip": "TaskManager01\\Models\\Entities\\SubTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:30:26.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Models\\Entities\\Task.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\Task.cs",
+              "RelativeToolTip": "TaskManager01\\Models\\Entities\\Task.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:04:56.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "TaskManager01\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "TaskManager01\\Models\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:03:59.61Z"
             }
           ]
         }

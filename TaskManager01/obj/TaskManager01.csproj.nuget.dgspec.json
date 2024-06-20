@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\TaskManager01.csproj": {}
+    "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\TaskManager01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\TaskManager01.csproj": {
+    "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\TaskManager01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\TaskManager01.csproj",
+        "projectUniqueName": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\TaskManager01.csproj",
         "projectName": "TaskManager01",
-        "projectPath": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\TaskManager01.csproj",
-        "packagesPath": "C:\\Users\\INT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INT\\source\\repos\\TaskManager01\\TaskManager01\\obj\\",
+        "projectPath": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\TaskManager01.csproj",
+        "packagesPath": "C:\\Users\\Sarthak_Rai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sarthak_Rai\\Documents\\TaskManager01\\TaskManager01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\INT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sarthak_Rai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

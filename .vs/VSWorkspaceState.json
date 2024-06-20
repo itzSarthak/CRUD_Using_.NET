@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskManager01",
+    "\\TaskManager01\\Controllers",
+    "\\TaskManager01\\Data",
+    "\\TaskManager01\\Models",
+    "\\TaskManager01\\Models\\Entities"
+  ],
+  "SelectedNode": "\\TaskManager01\\Migrations",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,11 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TaskManager01.Models.Entities
 {
     public class Task
     {
         [Key]
-        public int TaskId { get; set; } // Primary key
+        public int TaskId { get; set; }
 
         [Required]
         [MaxLength(255)]
@@ -25,5 +26,16 @@ namespace TaskManager01.Models.Entities
         [Required]
         [MaxLength(50)]
         public string Status { get; set; }
+
+
+        public int CategoryId { get; set; }
+
+        
+        public Category Category { get; set; }
+
+        public ICollection<SubTask> subTasks
+        {
+            get; set;
+        }
     }
 }

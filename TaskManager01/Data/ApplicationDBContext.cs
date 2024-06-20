@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskEntity = TaskManager01.Models.Entities.Task;
+using TaskManager01.Models.Entities;
 
 namespace TaskManager01.Data
 {
@@ -11,15 +12,26 @@ namespace TaskManager01.Data
         }
 
         public DbSet<TaskEntity> Tasks { get; set; }
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<SubTask> SubTasks { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<TaskEntity>(entity =>
-            {
-                entity.HasKey(e => e.TaskId);
-            });
+            modelBuilder.Entity<TaskEntity>()
+                .HasOne(t => t.Category)
+                .WithMany(c => c.Tasks)
+                .HasForeignKey(t => t.CategoryId);
+
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<SubTask>()
+            .HasOne(t => t.task)
+            .WithMany(c => c.subTasks)
+            .HasForeignKey(t => t.TaskId);
+
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

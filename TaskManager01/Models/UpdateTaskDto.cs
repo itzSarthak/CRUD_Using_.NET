@@ -25,5 +25,7 @@ namespace TaskManager01.Models
         [Required]
         [MaxLength(50)]
         public string Status { get; set; }
+
+        public int CategoryId { get; set; }
     }
 }

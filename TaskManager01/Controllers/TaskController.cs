@@ -5,20 +5,20 @@ using TaskManager01.Models;
 using TaskEntity = TaskManager01.Models.Entities.Task;
 namespace TaskManager01.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("TaskManagement/[controller]")]
     [ApiController]
     public class TasksController : ControllerBase
     {
-        private readonly ApplicationDBContext dbContext;
+        private readonly ApplicationDBContext _dbContext;
 
         public TasksController(ApplicationDBContext dbContext)
         {
-            this.dbContext = dbContext;
+            _dbContext = dbContext;
         }
         [HttpGet]
         public IActionResult GetAllTasks()
         {
-            var allTasks = dbContext.Tasks.ToList();
+            var allTasks = _dbContext.Tasks.ToList();
             return Ok(allTasks);
         }
         [HttpPost]
@@ -32,17 +32,17 @@ namespace TaskManager01.Controllers
                 Priority = addTaskDto.Priority,
                 Assignee = addTaskDto.Assignee,
                 Status = addTaskDto.Status,
+                CategoryId = addTaskDto.CategoryID,
             };
-
-            dbContext.Tasks.Add(taskentity);
-            dbContext.SaveChanges();
+            _dbContext.Tasks.Add(taskentity);
+            _dbContext.SaveChanges();
             return Ok(taskentity);
         }
         [HttpGet]
         [Route("{TaskId:int}")]
         public IActionResult GetTaskbyId(int TaskId)
         {
-            var task = dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
+            var task = _dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
             if (task is null)
             {
                 return NotFound();
@@ -53,7 +53,7 @@ namespace TaskManager01.Controllers
         [Route("{TaskId:int}")]
         public IActionResult UpdateTask(int TaskId,UpdateTaskDto updatetaskdto)
         {
-            var task = dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
+            var task = _dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
             if (task is null)
             {
                 return NotFound();
@@ -65,20 +65,21 @@ namespace TaskManager01.Controllers
             task.Assignee = updatetaskdto.Assignee;
             task.Priority = updatetaskdto.Priority;
             task.Description = updatetaskdto.Description;
-            dbContext.SaveChanges();
+            task.CategoryId = updatetaskdto.CategoryId;
+            _dbContext.SaveChanges();
             return Ok(task);
         }
         [HttpDelete]
         [Route("{TaskId:int}")]
         public IActionResult DeleteTask(int TaskId)
         {
-            var task = dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
+            var task = _dbContext.Tasks.FirstOrDefault(t => t.TaskId == TaskId);
             if (task is null)
             {
                 return NotFound();
             }
-            dbContext.Tasks.Remove(task);
-            dbContext.SaveChanges();
+            _dbContext.Tasks.Remove(task);
+            _dbContext.SaveChanges();
             return Ok(task);
 
 
